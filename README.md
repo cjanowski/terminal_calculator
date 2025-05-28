@@ -1,2 +1,2 @@
-# terminal_calculator
+# terminal-calculator
 Very simple terminal calculator in Rust
